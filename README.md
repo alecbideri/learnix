@@ -1,5 +1,7 @@
 # Learnix
 
+![Project Preview](public/readme/project-preview.png)
+
 Learnix is a modern web application built with Next.js 15, designed to provide an interactive learning experience with AI companions.
 
 ## Features
